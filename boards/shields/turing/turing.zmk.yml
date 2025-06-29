@@ -1,0 +1,11 @@
+file_format: "1"
+id: turing
+name: Turing
+type: shield
+url: https://github.com/lordbagel42/turing
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - turing_left
+  - turing_right
